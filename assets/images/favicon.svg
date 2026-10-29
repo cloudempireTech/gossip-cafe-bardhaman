@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#fcf8f2"/>
+  <rect x="6" y="6" width="88" height="88" rx="16" fill="none" stroke="#d94b34" stroke-width="4"/>
+  <rect x="22" y="16" width="56" height="42" rx="4" fill="#d94b34"/>
+  <!-- Two silhouettes and steaming cup -->
+  <path d="M35 48 C35 34, 45 32, 50 38 C55 32, 65 34, 65 48 Z" fill="#fcf8f2"/>
+  <path d="M42 52 Q50 56 58 52 Q55 57 45 57 Z" fill="#fcf8f2"/>
+  <path d="M47 30 Q50 25 48 20 M53 30 Q56 25 54 20" stroke="#fcf8f2" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Gossip text -->
+  <text x="50" y="82" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="900" font-size="22" fill="#d94b34" text-anchor="middle" letter-spacing="-0.5">gossip</text>
+  <circle cx="68" cy="67" r="2.5" fill="#d94b34"/>
+</svg>

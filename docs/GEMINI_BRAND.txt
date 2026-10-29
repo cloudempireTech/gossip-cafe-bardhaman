@@ -1,0 +1,29 @@
+# GOSSIP CAFE & RESTAURANT - Brand Identity & Design System
+
+## 1. Brand Concept & Ethos
+- Brand Name: Gossip (গসিপ) / Gossip at Chandrolok
+- Category: Eclectic Fine-Dine Restaurant & Contemporary Cafe
+- Locality: Chandrolok Complex, Bhatchala Road, Barabalidanga, Bardhaman, West Bengal 713101
+- Phone & WhatsApp: +91 90832 77319
+- FSSAI License: 22819029001774
+- Google & Facebook Patronage: 3.4K+ Followers, 82% Recommendation rate, 11th Year Anniversary in Bardhaman
+- Hours: 11:30 AM – 10:30 PM Everyday
+
+## 2. Color Mood & Harmony (Strictly Clean & Modern - Zero Brown)
+- Pure Porcelain Canvas: #fcfbf9 (Clean, luminous, breathable modern foundation)
+- Crisp White Cards: #ffffff (Elevated card surfaces with soft ambient drop shadows)
+- Terracotta / Warm Crimson Brand Accent: #d94b34 / #c23822 (Faithful to authentic circular Gossip emblem)
+- Golden Amber Glow: #f59e0b / #d97706 (Warm ambient pendant lighting accent)
+- Frosted Glass Header: rgba(255, 255, 255, 0.92) with border: 1px solid rgba(217, 75, 52, 0.15)
+- Deep Charcoal Typography: #1a1512 / #2d2621 (High-contrast, effortless readability)
+
+## 3. Culinary & Service Pillars
+1. Eclectic Continental & Italian: Wood-fired artisanal pizzas, creamy Alfredo & Bechamel pastas, au gratin, and crispy appetizers.
+2. Sizzling Charcoal & Tandoori Kebabs: Shami kebabs, chicken & paneer tikka, murg malai kebabs, and authentic Bengali royal thalis.
+3. Pan-Asian & Indo-Chinese Specialties: Chilli chicken platters, hakka noodles, gourmet bao sliders, and burnt garlic fried rice.
+4. Social Celebrations & Private Banquets: Birthday parties, kitty parties, corporate lunches, and festive Durga Puja gatherings.
+
+## 4. 16:9 Hero Video Summary
+- Asset: assets/videos/hero.mp4
+- Poster: assets/images/hero-poster.jpg
+- Video Description: 16:9 cinematic landscape showcasing artisanal culinary creations, glowing ambient dining hall lighting, and warm welcoming hospitality.
