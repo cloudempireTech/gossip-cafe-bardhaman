@@ -640,15 +640,19 @@ button {
 }
 
 @media (max-width: 768px) {
+  .abstract-orb {
+    animation: none !important;
+    transform: none !important;
+  }
   .abstract-orb-1 {
-    right: 0;
-    width: 200px;
-    height: 200px;
+    right: 20px !important;
+    width: 150px !important;
+    height: 150px !important;
   }
   .abstract-orb-2 {
-    left: 0;
-    width: 200px;
-    height: 200px;
+    left: 20px !important;
+    width: 150px !important;
+    height: 150px !important;
   }
 }
 
@@ -1073,6 +1077,22 @@ select.form-select {
   background-position: right 1.15rem center;
   background-size: 16px;
   padding-right: 2.8rem;
+}
+
+.form-row-2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .form-row-2col {
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+  }
+  .contact-form-card {
+    padding: 1.5rem 1rem !important;
+  }
 }
 
 textarea.form-control,
